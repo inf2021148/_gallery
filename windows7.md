@@ -1,5 +1,5 @@
 ---
-author: epidrome
+author: inf2021148
 title: Microsoft Windows 7
 year: 2009
 image_url: /images/windows7.jpg 
